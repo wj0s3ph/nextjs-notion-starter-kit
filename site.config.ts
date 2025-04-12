@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'J0s3ph.PG',
-  domain: 'nextjs-notion-starter-kit.J0s3ph.PG',
+  name: 'J0s3ph.Wang',
+  domain: 'j0s3ph.wang',
   author: 'J0s3ph',
 
   // open graph metadata (optional)
